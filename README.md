@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Tanuj Kalonia 👋
 
-<!--
-**Tanuj3662/Tanuj3662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on Full stack Web Development
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on CodeCampers.org
+- 🤔 I’m looking for help with Angular Documentation
+- 💬 Ask me about Web development
+- 📫 How to reach me: instagram
+- 😄 Pronouns: He/His
+: 
+
