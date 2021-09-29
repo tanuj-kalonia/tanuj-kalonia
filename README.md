@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanuj3662](https://github.com/Tanuj3662)
 
-
+- 💬 Ask me about **HTML,CSS,C, C++,JS**
 
 - 📫 How to reach me **tanujkalonia2002@gmail.com**
 
-
+- ⚡ Fun fact **I can do hand-stand and Dragon stand😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,7 @@
 <a href="https://www.codechef.com/users/dastan529" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dastan529" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@tanujkalonia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tanujkalonia" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tanujkalonia2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanujkalonia2002" height="30" width="40" /></a>
+<a href="https://discord.gg/3591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3591" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
