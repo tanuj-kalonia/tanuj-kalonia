@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanuj3662](https://github.com/Tanuj3662)
 
-- 💬 Ask me about **HTML,CSS,C, C++,JS**
+
 
 - 📫 How to reach me **tanujkalonia2002@gmail.com**
 
-- ⚡ Fun fact **I can do hand-stand and Dragon stand😎**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
