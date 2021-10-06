@@ -40,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuj3662&show_icons=true&locale=en" alt="tanuj3662" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj3662&" alt="tanuj3662" /></p>
+[![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanuj3662&theme=xcode)](https://github.com/Tanuj3663/github-readme-activity-graph)
