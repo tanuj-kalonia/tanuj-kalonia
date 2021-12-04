@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Tanuj Kalonia 👋</h1>
-<h3 align="center">Declare Variables not War. A passionate Web developer seeking for the best.</h3>
+<h3 align="center">Declare Var not War. A passionate Web developer seeking for the best.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj3662&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj3662" /> </p>
 
