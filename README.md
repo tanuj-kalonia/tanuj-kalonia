@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Angular and Flutter**
+- 🌱 I’m currently brushing my **Backend** concepts
 
 - 👯 I’m looking to collaborate on **Projects based of web dev**
 
-- 🤝 I’m looking for help with **Angular documentation**
+- 🤝 I’m looking for help with **React documentation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanuj3662](https://github.com/Tanuj3662)
 
-- 💬 Ask me about **HTML,CSS,C, C++,JS**
+- 💬 Ask me about **HTML,CSS,C, C++,JS, ReactJs**
 
-- 📫 How to reach me **tanujkalonia2002@gmail.com**
+- 📫 How to reach me **tanujkalonia2002@gmail.com** and **tanuj_kalonia** (insta handle)
 
 - ⚡ Fun fact **I can do hand-stand and Dragon stand😎**
 
