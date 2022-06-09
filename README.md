@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML,CSS,C, C++,JS, ReactJs**
 
-- 📫 How to reach me **tanujkalonia2002@gmail.com** and **tanuj_kalonia** (insta handle)
+- 📫 How to reach me **tanujkalonia2002@gmail.com** and **https://www.linkedin.com/in/tanuj-kalonia-070628216/** (Linked profile)
 
 - ⚡ Fun fact **I can do hand-stand and Dragon stand😎**
 
