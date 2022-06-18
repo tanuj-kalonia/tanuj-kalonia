@@ -1,6 +1,8 @@
 # Hi there, I am Tanuj Kalonia 👋
 ##   Declare Variables not War. A passionate Web developer seeking for the best.
 
+[![](https://visitcount.itsvg.in/api?id=Tanuj3662&icon=6&color=0)](https://visitcount.itsvg.in)
+
 # 💫About Me :
  🔭 I’m currently working on Full Stack Web Development**
 🌱 I’m currently learning Angular and Flutter
@@ -23,4 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuj3662&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tanuj3662&icon=6&color=0)](https://visitcount.itsvg.in)
+
