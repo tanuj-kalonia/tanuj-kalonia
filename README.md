@@ -5,11 +5,17 @@
 
 # 💫About Me :
  🔭 I’m currently working on Full Stack Web Development**
+ 
 🌱 I’m currently learning Angular and Flutter
+
 👯 I’m looking to collaborate on projects based on web dev
+
 🤝 I’m looking for help with Angular documentation
+
 💬 Ask me about HTML, CSS, C, C++, JS, Node.js, and much more
+
 📫 How to reach me https://www.linkedin.com/in/tanuj-kalonia/
+
 ⚡ Fun fact I can do hand-stand and Dragon stand😎
 
 
