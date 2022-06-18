@@ -1,5 +1,5 @@
 # Hi, I am Tanuj Kalonia
-# Declare var nor war, A passionate web-developer seeking for best
+## Declare var nor war, A passionate web-developer seeking for best
 # 💫About Me :
 🔭 I’m currently working on Full Stack Web Development
 
