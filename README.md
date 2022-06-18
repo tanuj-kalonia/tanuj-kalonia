@@ -14,7 +14,8 @@
 ⚡ Fun fact I can do hand-stand and Dragon stand😎
 
 
-
+Thankyou for precious time 🥰
+[![](https://visitcount.itsvg.in/api?id=Tanuj3662&icon=0&color=10)](https://visitcount.itsvg.in)
 
 
 ## 🌐Socials
@@ -37,4 +38,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tanuj3662&icon=0&color=10)](https://visitcount.itsvg.in)
+
