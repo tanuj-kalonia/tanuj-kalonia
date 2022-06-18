@@ -1,3 +1,6 @@
+# Hi there, I am Tanuj Kalonia 👋
+##   Declare Variables not War. A passionate Web developer seeking for the best.
+
 # 💫About Me :
  🔭 I’m currently working on Full Stack Web Development**
 🌱 I’m currently learning Angular and Flutter
