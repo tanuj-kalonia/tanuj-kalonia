@@ -1,4 +1,4 @@
-# Hi there, I am Tanuj Kalonia 👋
+# Hi there 👋 , I am Tanuj Kalonia 
 ##   Declare Var not War. A passionate Web developer seeking for the best.
 
 [![](https://visitcount.itsvg.in/api?id=Tanuj3662&icon=6&color=0)](https://visitcount.itsvg.in)
