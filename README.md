@@ -1,34 +1,78 @@
-# Hi there 👋 , I am Tanuj Kalonia 
-##   Declare Var not War. A passionate Web developer seeking for the best.
+<h1 align="center">Swapnil Kole</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
 
-[![](https://visitcount.itsvg.in/api?id=Tanuj3662&icon=6&color=0)](https://visitcount.itsvg.in)
+<!--About-->
 
-# 💫About Me :
- 🔭 I’m currently working on Full Stack Web Development**
+
+<!-- GitHub Readme Streak Stats-->
+## 🔥 Streak stats
+
+
+<p align="center">
+  <a href="https://github.com/kole-swapnil">
+    <img  alt="kole-swapnil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kole-swapnil&theme=highcontrast&hide_border=true"/>
+  </a>
+  
+</p>
+
+</br>
+
+<!--Skills-->
+
+## 🚀 Languages and Tools:
+<p align="left"> <img src="https://img.icons8.com/fluency/48/000000/blockchain.png" alt="Blockchain"/>
+  <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb"/>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/></a>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> </a> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP"/> 
+</p>
+
+
+</br>
+
+<!--Github Stats-->
+## 📊 Github stats
+
+
+<details open=""> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/kole-swapnil"><img align="center" alt="kole-swapnil's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kole-swapnil&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/kole-swapnil"><img align="center" height="192px" alt="kole-swapnil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kole-swapnil&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+  <br/>
+  </p>
  
-🌱 I’m currently learning Angular and Flutter
+</details>
 
-👯 I’m looking to collaborate on projects based on web dev
+<!--Contribution Graph-->
+</br>
 
-🤝 I’m looking for help with Angular documentation
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kole-swapnil&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
 
-💬 Ask me about HTML, CSS, C, C++, JS, Node.js, and much more
+</br>
 
-📫 How to reach me https://www.linkedin.com/in/tanuj-kalonia/
+<!--social-->
+## 🙋‍ Connect with me:
 
-⚡ Fun fact I can do hand-stand and Dragon stand😎
+<p align="center">
+<a href="mailto:swapnilkole7500@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/swapnil-kole/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/foody_kole/" target= "_blank"><img src="https://img.shields.io/badge/foody_kole-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href ="https://github.com/kole-swapnil"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://twitter.com/SwapnilKole6" target= "_blank"><img src="https://img.shields.io/badge/SwapnilKole6-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://wa.me/918328217163"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-
-
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/invite/3591) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanuj_kalonia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanuj-kalonia/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/tanuj_kalonia) 
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat-square&logo=pug&logoColor=A86454) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Tanuj3662&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tanuj3662&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuj3662&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
+</p>
