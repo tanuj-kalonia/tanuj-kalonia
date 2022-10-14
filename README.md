@@ -16,7 +16,7 @@
 </p>
 
 </br>
-
+[![](https://visitcount.itsvg.in/api?id=Tanuj3662&label=Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
 <!--Skills-->
 
 ## 🚀 Languages and Tools:
