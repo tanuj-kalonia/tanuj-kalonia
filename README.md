@@ -16,8 +16,11 @@
 </p>
 
 </br>
-[![](https://visitcount.itsvg.in/api?id=Tanuj3662&label=Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
-<!--Skills-->
+
+### Thankyou for your valuable time : 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Tanuj3662&label=Views&color=6&icon=8&pretty=false" />
+</a>
 
 ## 🚀 Languages and Tools:
 <p>
