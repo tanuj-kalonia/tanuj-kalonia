@@ -3,6 +3,8 @@
 
 <!--About-->
 
+<!-- holopin badges -->
+[![@tanuj2904's Holopin board](https://holopin.me/tanuj2904)](https://holopin.io/@tanuj2904)
 
 <!-- GitHub Readme Streak Stats-->
 ## 🔥 Streak stats
