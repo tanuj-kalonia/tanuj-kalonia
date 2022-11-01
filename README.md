@@ -11,8 +11,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/Tanuj3662">
-    <img  alt="Tanuj_Kalonia streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanuj3662&theme=radical&hide_border=true"/>
+  <a href="https://github.com/tanuj-kalonia">
+    <img  alt="Tanuj_Kalonia streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=radical&hide_border=true"/>
   </a>
   
 </p>
@@ -21,7 +21,7 @@
 
 ### Thankyou for your valuable time : 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Tanuj3662&label=Views&color=6&icon=8&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=tanuj-kalonia&label=Views&color=6&icon=8&pretty=false" />
 </a>
 
 ## 🚀 Languages and Tools:
@@ -57,8 +57,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Tanuj3662"><img align="center" alt="Tanuj's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Tanuj3662&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/Tanuj3662"><img align="center" height="192px" alt="Tanuj3662 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanuj3662&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+    <a href="https://github.com/tanuj-kalonia"><img align="center" alt="Tanuj's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tanuj-kalonia&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/tanuj-kalonia"><img align="center" height="192px" alt="Tanuj3662 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj-kalonia&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
   <br/>
   </p>
  
@@ -67,7 +67,7 @@
 <!--Contribution Graph-->
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Tanuj3662&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tanuj-kalonia&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
 
 </br>
 
