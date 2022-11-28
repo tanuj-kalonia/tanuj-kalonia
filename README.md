@@ -7,6 +7,9 @@
 [![@tanuj2904's Holopin board](https://holopin.me/tanuj2904)](https://holopin.io/@tanuj2904)
 
 <!-- GitHub Readme Streak Stats-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
+
 ## 🔥 Streak stats
 
 
@@ -18,9 +21,6 @@
 </p>
 
 </br>
-
-### Thankyou for your valuable time : 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
 ## 🚀 Languages and Tools:
 <p>
