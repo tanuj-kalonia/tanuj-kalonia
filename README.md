@@ -20,9 +20,7 @@
 </br>
 
 ### Thankyou for your valuable time : 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tanuj-kalonia&label=Views&color=6&icon=8&pretty=false" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj-kalonia&label=Profile%20views&color=0e75b6&style=flat" alt="Tanuj Kalonia" /> </p>
 
 ## 🚀 Languages and Tools:
 <p>
