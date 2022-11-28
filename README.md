@@ -20,7 +20,7 @@
 </br>
 
 ### Thankyou for your valuable time : 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsjrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="Tanuj Kalonia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
 ## 🚀 Languages and Tools:
 <p>
