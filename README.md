@@ -5,21 +5,13 @@
 <!-- holopin badges -->
 [![@tanuj2904's Holopin board](https://holopin.me/tanuj2904)](https://holopin.io/@tanuj2904)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuj-kalonia&theme=darkhub" alt="tanuj-kalonia" /></a> </p>
+
+<br/>
 <!-- GitHub Readme Streak Stats-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajgupta" /> </p>
 
-## 🔥 Streak stats
-
-
-<p align="center">
-  <a href="https://github.com/tanuj-kalonia">
-    <img  alt="Tanuj_Kalonia streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=radical&hide_border=true"/>
-  </a>
-  
-</p>
-
-</br>
 
 ## 🚀 Languages and Tools:
 <p>
@@ -42,24 +34,26 @@
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuj-kalonia&theme=darkhub" alt="tanuj-kalonia" /></a> </p>
+
 
 </br>
 
-<!--Github Stats-->
-## 📊 Github stats
+## 💻 **GitHub Profile Stats**
 
+<a href="github.com/tanuj-kalonia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanuj-kalonia&theme=tokyonight" width="100%" alt="tanuj-kalonia" />
+</a>
 
-<details open=""> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/tanuj-kalonia"><img align="center" alt="Tanuj's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tanuj-kalonia&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/tanuj-kalonia"><img align="center" height="192px" alt="Tanuj3662 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj-kalonia&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
-  <br/>
-  </p>
- 
-</details>
+<!-- [![Tanuj's contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=tokyonight&hide_border=true)](https://github.com/tanuj-kalonia) -->
+
+<a href="github.com/tanuj-kalonia">
+<img src="https://github-readme-stats.vercel.app/api?username=tanuj-kalonia&show_icons=true&theme=tokyonight&hide_border=true" width="57.5%" alt="tanuj-kalonia" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj-kalonia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="tanuj-kalonia"/>
+</a>
+
+<a href="github.com/tanuj-kalonia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanuj-kalonia&theme=tokyonight&utcOffset=8" width="39.7%" alt="tanuj-kalonia" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=tokyonight&hide_border=true" width="59.3%" alt="tanuj-kalonia"/>
+</a>
+
 
 <!--Contribution Graph-->
 </br>
