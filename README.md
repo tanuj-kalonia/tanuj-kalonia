@@ -41,17 +41,17 @@
 ## 💻 **GitHub Profile Stats**
 
 <a href="github.com/tanuj-kalonia">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanuj-kalonia&theme=tokyonight" width="100%" alt="tanuj-kalonia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanuj-kalonia&theme=dracula" width="100%" alt="tanuj-kalonia" />
 </a>
 
-<!-- [![Tanuj's contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=tokyonight&hide_border=true)](https://github.com/tanuj-kalonia) -->
+<!-- [![Tanuj's contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=dracula&hide_border=true)](https://github.com/tanuj-kalonia) -->
 
 <a href="github.com/tanuj-kalonia">
-<img src="https://github-readme-stats.vercel.app/api?username=tanuj-kalonia&show_icons=true&theme=tokyonight&hide_border=true" width="57.5%" alt="tanuj-kalonia" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj-kalonia&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="tanuj-kalonia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tanuj-kalonia&show_icons=true&theme=dracula&hide_border=true" width="57.5%" alt="tanuj-kalonia" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj-kalonia&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true" width="42%" alt="tanuj-kalonia"/>
 </a>
 
 <a href="github.com/tanuj-kalonia">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanuj-kalonia&theme=tokyonight&utcOffset=8" width="39.7%" alt="tanuj-kalonia" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=tokyonight&hide_border=true" width="59.3%" alt="tanuj-kalonia"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanuj-kalonia&theme=dracula&utcOffset=8" width="39.7%" alt="tanuj-kalonia" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj-kalonia&theme=dracula&hide_border=true" width="59.3%" alt="tanuj-kalonia"/>
 </a>
 
 
