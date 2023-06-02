@@ -68,7 +68,7 @@
 <p align="center">
 <a href="mailto:tanujkalonia2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/tanuj-kalonia-070628216/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/tanuj_kaloina"_blank"><img src="https://img.shields.io/badge/Tanuj_Kalonia-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/tanuj_kalonia/"_blank"><img src="https://img.shields.io/badge/Tanuj_Kalonia-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href ="https://github.com/Tanuj3662"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://wa.me/919599959651"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
