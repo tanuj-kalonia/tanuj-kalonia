@@ -69,7 +69,7 @@
   
 [![tanujkalonia2002@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujkalonia2002@gmail.com)
 [![Tanuj-Kalonia](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanuj-kalonia-070628216/)
-[![tanuj_kalonia](https://img.shields.io/badge/Harsh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tanuj_kalonia)
+[![tanuj_kalonia](https://img.shields.io/badge/Tanuj-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tanuj_kalonia)
 [![tanuj_kalonia](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/tanuj_kalonia)
 [![tanuj_kalonia#3591](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tanuj_kalonia#3591)
 [![9599959651](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9599959651)
