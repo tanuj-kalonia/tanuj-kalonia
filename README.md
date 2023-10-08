@@ -3,7 +3,7 @@
 
 <!--About-->
 <!-- holopin badges -->
-[![@tanuj2904's Holopin board](https://holopin.io/@tanuj2904)](https://holopin.io/@tanuj2904)
+[![An image of @tanuj2904's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanuj2904)](https://holopin.io/@tanuj2904)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuj-kalonia&theme=darkhub" alt="tanuj-kalonia" /></a> </p>
 
