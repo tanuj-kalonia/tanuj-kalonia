@@ -58,7 +58,9 @@
 <!--Contribution Graph-->
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tanuj-kalonia&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tanuj-kalonia&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true) -->
+
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanuj-kalonia&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
